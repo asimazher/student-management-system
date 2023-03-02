@@ -1,0 +1,10 @@
+{
+    "db":{
+    "database": "sms",
+    "username" :"postgres",
+    "password": "password",
+    "logging": false,
+    "host": "localhost",
+    "dialect":"postgres"
+}
+}
